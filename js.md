@@ -92,14 +92,15 @@ console.log(qux); // ReferenceError: qux is not defined
 <details> 
   <summary>Правильный ответ</summary>
 
-  - `number`
-  - `string`
-  - `boolean`
-  - `null`
-  - `undefined`
-  - `symbol`
-  - `bigint`
-  - `object`
+  `number`  
+  `string`  
+  `boolean`  
+  `null`  
+  `undefined`  
+  `symbol`  
+  `bigint`  
+  `object`  
+  
 
 - `number`. Число «number» - Единый тип число используется как для целых, так и для дробных чисел. Существуют специальные числовые значения Infinity (бесконечность) и NaN (ошибка вычислений). Например, бесконечность Infinity получается при делении на ноль. Ошибка вычислений NaN будет результатом некорректной математической операции.  
 - `string`. Строка «string».  
